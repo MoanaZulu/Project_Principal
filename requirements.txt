@@ -1,3 +1,13 @@
+Django
+djangorestframework
+gunicorn
+drf-yasg
+
+
+
+
+
+
 amqp==5.3.1
 asgiref==3.10.0
 billiard==4.2.4
